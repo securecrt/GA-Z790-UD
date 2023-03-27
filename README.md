@@ -48,7 +48,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 		
 
 ### Not working
-* None
+*  Can't read out the fan RPM after wakeup from sleep
 
 ### macOS Support
 | Version   | macOS | Download |
