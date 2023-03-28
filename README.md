@@ -48,7 +48,8 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 		
 
 ### Not working
-*  Can't read out the fan RPM after wakeup from sleep
+* Can't read out the fan RPM after wakeup from sleep and the fan became noisy.
+* The issue can be reproduced in Win11 also, need to wait the bios update from gigabyte.
 
 ### macOS Support
 | Version   | macOS | Download |
