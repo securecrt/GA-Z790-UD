@@ -6,10 +6,10 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 ```text
                     'c.          iMac-Pro 
                  ,xNMM.          ------------------------ 
-               .OMMMMo           OS: macOS 13.2.1 22D68 x86_64 
+               .OMMMMo           OS: macOS 13.3 22E252 x86_64 
                OMMM0,            Host: Hackintosh (SMBIOS: iMacPro1,1) 
-     .;loddo:' loolloddol;.      Kernel: 22.3.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 1 min 
+     .;loddo:' loolloddol;.      Kernel: 22.4.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 11 mins 
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 93 (brew) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: bash 5.2.15 
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 2560x1440@2x 
@@ -20,7 +20,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: SFMono-Regular 
     kMMMMMMMMMMMMMMMMMMMMMMd     CPU: 13th Gen Intel i9-13900 
      ;KMMMMMMMWXXWMMMMMMMk.      GPU: AMD Radeon RX 6900 XT 
-       .cooc,.    .,coo:.        Memory: 8534MiB / 65536MiB 
+       .cooc,.    .,coo:.        Memory: 12025MiB / 65536MiB 
 ```
 
 ### OpenCore 
@@ -54,6 +54,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 | Version   | macOS | Download |
 | --------: | :---- | :------- |
 | 13.2.1 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
+| 13.3 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
 
 
 ### Thanks
