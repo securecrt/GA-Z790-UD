@@ -45,12 +45,14 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 		* Initial Display Output → **PCIe 1 Slot**
 		* Above 4G Decoding → **Enabled**
 		* Re-Size BAR Support → **Enabled**
+    * IOAPIC 24-119 Entries → **Disabled** (fixed Wakeup issue)
 		
 
 ### Not working
 * Can't wakeup from auto sleep. 
 * But if manually press the sleep button, it can wakeup normally. The issue is also reproduced in win11.
-* It should be the BIOS issue.
+* It should be the BIOS issue. 
+* currently disabled IOAPIC 24-119 Entries can fix this issue.
 
 ### macOS Support
 | Version   | macOS | Download |
