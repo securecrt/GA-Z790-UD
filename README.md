@@ -44,6 +44,8 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 	* Boot
 		*  Fast Boot → **Disabled**
 		*  CSM Support → **Disabled**
+	* Settings → Platform Power
+		* ErP → **Enabled**
 	* Settings → IO Ports
 		* Initial Display Output → **PCIe 1 Slot**
 		* Internal Graphics → **Disabled**	
@@ -52,6 +54,7 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 		* IOAPIC 24-119 Entries → **Disabled** (fixed Wakeup issue)
 	* Settings → Miscellaneous
 		* VT-d → **Enabled**
+
 
 ### Not working
 * Can't wakeup from auto sleep. 
