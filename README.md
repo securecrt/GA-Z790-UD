@@ -36,23 +36,31 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 * **SSD:** WD_BLACK SN850X 2000GB
 
 
-### BIOS Settings [F5](https://download.gigabyte.cn/FileList/BIOS/mb_bios_z790-ud_f5.zip?v=e5544dab810c13aa9a1e302ef062f745)
+### BIOS [F5](https://download.gigabyte.cn/FileList/BIOS/mb_bios_z790-ud_f5.zip?v=e5544dab810c13aa9a1e302ef062f745)
+Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 * Settings
-	* BIOS
+	* Tweaker
+		*  Extreme Memory Profile (X.M.P.) → **XMP1** (Enable DDR5 6000MHz)
+	* Boot
 		*  Fast Boot → **Disabled**
 		*  CSM Support → **Disabled**
-	* Settings
+	* Settings → IO Ports
 		* Initial Display Output → **PCIe 1 Slot**
+		* Internal Graphics → **Disabled**	
 		* Above 4G Decoding → **Enabled**
-		* Re-Size BAR Support → **Enabled**
-    * IOAPIC 24-119 Entries → **Disabled** (fixed Wakeup issue)
-		
+		* Re-Size BAR Support → **Enabled** 
+		* IOAPIC 24-119 Entries → **Disabled** (fixed Wakeup issue)
+	* Settings → Miscellaneous
+		* VT-d → **Enabled**
 
 ### Not working
 * Can't wakeup from auto sleep. 
 * But if manually press the sleep button, it can wakeup normally. The issue is also reproduced in win11.
 * It should be the BIOS issue. 
 * currently disabled IOAPIC 24-119 Entries can fix this issue.
+* some links related to the wakeup / sleep issues  
+https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/page-90
+https://www.reddit.com/r/Fedora/comments/v8o6l8/b660m_mobo_not_able_to_wakeup_from_sleep/
 
 ### macOS Support
 | Version   | macOS | Download |
