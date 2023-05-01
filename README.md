@@ -36,7 +36,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 * **SSD:** WD_BLACK SN850X 2000GB
 
 
-### BIOS [F5](https://download.gigabyte.cn/FileList/BIOS/mb_bios_z790-ud_f5.zip?v=e5544dab810c13aa9a1e302ef062f745)
+### BIOS [F6c](https://download.gigabyte.com/FileList/BIOS/mb_bios_z790-ud_f6c.zip)
 Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 * Settings
 	* Tweaker
@@ -57,13 +57,7 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 
 
 ### Not working
-* Can't wakeup from auto sleep. 
-* But if manually press the sleep button, it can wakeup normally. The issue is also reproduced in win11.
-* It should be the BIOS issue. 
-* currently disabled IOAPIC 24-119 Entries can fix this issue.
-* some links related to the wakeup / sleep issues  
-https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/page-90
-https://www.reddit.com/r/Fedora/comments/v8o6l8/b660m_mobo_not_able_to_wakeup_from_sleep/
+* wakeup / sleep issue is fixed in bios F6c
 
 ### macOS Support
 | Version   | macOS | Download |
