@@ -51,7 +51,7 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 		* Internal Graphics → **Disabled**	
 		* Above 4G Decoding → **Enabled**
 		* Re-Size BAR Support → **Enabled** 
-		* IOAPIC 24-119 Entries → **Disabled** (fixed Wakeup issue)
+		* IOAPIC 24-119 Entries → **Enabled**
 	* Settings → Miscellaneous
 		* VT-d → **Enabled**
 
