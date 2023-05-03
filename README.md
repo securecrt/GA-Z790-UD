@@ -44,6 +44,7 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 	* Boot
 		*  Fast Boot → **Disabled**
 		*  CSM Support → **Disabled**
+        *  Secure Boot → **Disabled**
 	* Settings → Platform Power
 		* ErP → **Enabled**
 	* Settings → IO Ports
