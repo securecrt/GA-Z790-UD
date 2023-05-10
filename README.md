@@ -43,7 +43,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 * Settings
 	* Tweaker
-		*  Extreme Memory Profile (X.M.P.) → **XMP1** (Enable DDR5 6000MHz)
+		*  Extreme Memory Profile (X.M.P.) → **XMP1** (Enable DDR5 6400MHz)
 	* Boot
 		*  Fast Boot → **Disabled**
 		*  CSM Support → **Disabled**
