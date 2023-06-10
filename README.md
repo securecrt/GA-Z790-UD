@@ -36,7 +36,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 * **SSD:** WD_BLACK SN850X 2000GB
 
 
-### BIOS [F6c](https://download.gigabyte.com/FileList/BIOS/mb_bios_z790-ud_f6c.zip)
+### BIOS [F6d](https://download.gigabyte.com/FileList/BIOS/mb_bios_z790-ud_f6d.zip)
 Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 * Settings
 	* Tweaker
@@ -65,7 +65,7 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 | 13.2.1 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
 | 13.3 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
 | 13.3.1 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
-
+| 13.4 | Ventura | [Mac App Store](https://apps.apple.com/us/app/macos-ventura/id1638787999?mt=12) |
 
 ### Thanks
 
