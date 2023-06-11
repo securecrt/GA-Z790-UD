@@ -24,7 +24,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 ```
 
 ### OpenCore 
-* **Version:** 0.9.1
+* **Version:** 0.9.2
 
 ### Hardware
 
@@ -58,6 +58,8 @@ Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 
 ### Not working
 * wakeup / sleep issue is fixed in bios F6c
+* second sleep crash issue has been fixed by add npci=0x2000 in boot-args credit to [@gongdao123](https://github.com/gongdao123/GA-Z790-UD)
+	* keyboard wake issue has been fixed by Add Wake Type Property
 
 ### macOS Support
 | Version   | macOS | Download |
