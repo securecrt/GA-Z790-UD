@@ -5,22 +5,22 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 
 ```text
                     'c.          iMac-Pro 
-                 ,xNMM.          ------------------------ 
-               .OMMMMo           OS: macOS 13.3.1 22E261 x86_64
+                 ,xNMM.          ------------------ 
+               .OMMMMo           OS: macOS 13.4 22F66 x86_64 
                OMMM0,            Host: Hackintosh (SMBIOS: iMacPro1,1) 
-     .;loddo:' loolloddol;.      Kernel: 22.4.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 19 hours, 53 mins
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 101 (brew)
+     .;loddo:' loolloddol;.      Kernel: 22.5.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 2 hours, 25 mins 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 101 (brew) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: bash 5.2.15 
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 2560x1440@2x 
 :MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Light) 
  .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: Apple_Terminal 
   .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: SFMono-Regular 
     kMMMMMMMMMMMMMMMMMMMMMMd     CPU: 13th Gen Intel i9-13900 
      ;KMMMMMMMWXXWMMMMMMMk.      GPU: AMD Radeon RX 6900 XT 
-       .cooc,.    .,coo:.        Memory: 13247MiB / 65536MiB
+       .cooc,.    .,coo:.        Memory: 10808MiB / 65536MiB 
 ```
 
 ### OpenCore 
