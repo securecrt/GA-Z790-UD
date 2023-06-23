@@ -36,7 +36,7 @@ OpenCore EFI for Gigabyte Z790 UD DDR5
 * **SSD:** WD_BLACK SN850X 2000GB
 
 
-### BIOS [F6d](https://download.gigabyte.com/FileList/BIOS/mb_bios_z790-ud_f6d.zip)
+### BIOS [F6](https://download.gigabyte.com/FileList/BIOS/mb_bios_z790-ud_f6.zip)
 Use Q-Flash Update the latest BIOS and Load Optimized Defaults
 * Settings
 	* Tweaker
